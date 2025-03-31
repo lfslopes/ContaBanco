@@ -4,6 +4,7 @@ lib/
 .idea/
 !**/src/main/**/out/
 !**/src/test/**/out/
+ContaBanco.iml
 
 ### Eclipse ###
 .apt_generated
