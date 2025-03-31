@@ -24,3 +24,5 @@ Para isso, foram declarados quatro variáveis:
 Com o classe ``Scanner`` é possível criar um objeto com métodos para ler a entrada do usuário no terminal.
 
 Criando um objeto *Scanner*, o código realiza a leitura dos dados do usuário com os métodos da classe, como ``scanner.next()``, ``scanner.nextInt()`` e ``scanner.nextDouble()``.
+
+Por questões de formatação, existe um método estático na classe chamado ``formatarSaldo (double saldo)``, que formata um número decimal qualquer para um formato de dinheiro (``R$ 25,50``, pro exemplo).
